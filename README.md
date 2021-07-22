@@ -1,0 +1,2 @@
+# omsaisingh
+My Static Website
